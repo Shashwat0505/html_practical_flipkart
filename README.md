@@ -5,7 +5,7 @@
 
 -This repository consist of front page of flipkart website.
 
-![image](flipkart.png).
+![image](flipkart1.png).
 
 
 
